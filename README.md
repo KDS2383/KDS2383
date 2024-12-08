@@ -40,8 +40,8 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align=center>  
-  <img height=200 align="center" src="https://github-readme-stats-1g5cx7ug4-kartik-sangles-projects.vercel.app/api?username=KDS2383&rank_icon=github" />
-  <img height=200 align="center" src="https://github-readme-stats-1g5cx7ug4-kartik-sangles-projects.vercel.app/api/top-langs/?username=KDS2383" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KDS2383&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDS2383" />
 </div>
 
 <div align="center">
@@ -60,10 +60,10 @@
 </div>
 
 <div align=center>   
-  <img align="center" src="https://github-readme-stats-1g5cx7ug4-kartik-sangles-projects.vercel.app/api/pin/?username=KDS2383&repo=Hand-Gesture-controlled-robotic-arm" />
-  <img align="center" src="https://github-readme-stats-1g5cx7ug4-kartik-sangles-projects.vercel.app/api/pin/?username=KDS2383&repo=Kartiksangleportfolio" />
-  <img align="center" src="https://github-readme-stats-1g5cx7ug4-kartik-sangles-projects.vercel.app/api/pin/?username=KDS2383&repo=Retina_Blindness_detection" />
-  <img align="center" src="https://github-readme-stats-1g5cx7ug4-kartik-sangles-projects.vercel.app/api/pin/?username=KDS2383&repo=Infinity_Fitness_Management_System" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Hand-Gesture-controlled-robotic-arm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Kartiksangleportfolio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Retina_Blindness_detection" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Infinity_Fitness_Management_System" />  
 </div>
 
 <div align="center">
