@@ -71,7 +71,6 @@
     <i>Explore these projects to see how I turn ideas into impactful solutions!</i>
 </div>
 
----
 
 <!-- <h2 align="center">🌟 Open-Source Contributions 🌟</h2>
 
