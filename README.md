@@ -4,8 +4,8 @@
 
 <div align="center">
     
-🌍 Passionate about leveraging technology to create meaningful solutions and contribute to the open-source community! <br><br>
-💬 Have a project idea, or want to discuss AI, ML, or software development? Let’s connect!
+🌍 Passionate about crafting innovative solutions and leveraging AI/ML to solve real-world problems! <br><br>
+💬 Got an idea or need advice on tech? Feel free to reach out—I'm always excited to collaborate!
 
 </div>
 
@@ -16,7 +16,11 @@
   <a href="mailto:kartiksangle32@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me!-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  <a href="https://kartiksangle.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio!-333333?style=for-the-badge&logo=githubpages&logoColor=green" />
+  </a>
 </div>
+
 
 ---
 
@@ -127,3 +131,9 @@
     <br><br>
     <i>Thank you for visiting my GitHub profile! Feel free to reach out for collaborations or just to chat about tech. 😊</i>
 </div>
+
+<div align="center">
+    <br><br>
+    <i>Tech is ever-evolving, and so am I. Let’s build something incredible together!</i>
+</div>
+
