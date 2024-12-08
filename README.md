@@ -60,10 +60,10 @@
 </div>
 
 <div align=center>   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Hand-Gesture-controlled-robotic-arm" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Kartiksangleportfolio" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Infinity_Fitness_Management_System" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Retina_Blindness_detection" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Little_lemon_Booking_System" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Little_lemon_Booking_System" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Little_lemon_Booking_System" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Little_lemon_Booking_System" />  
 </div>
 
 <div align="center">
