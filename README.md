@@ -10,10 +10,10 @@
 </div>
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/kartik-sangle/">
     <img src="https://img.shields.io/badge/Let's_Connect!-333333?style=for-the-badge&logo=linkedin&logoColor=blue" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kartiksangle32@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me!-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
@@ -36,8 +36,8 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align=center>  
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&rank_icon=github" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KDS2383&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDS2383" />
 </div>
 
 <div align="center">
@@ -56,10 +56,10 @@
 </div>
 
 <div align=center>   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Crop-Recommendation-System" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Weapon-Detection-CCTV" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Gesture-Controlled-Robotic-Arm" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Portfolio-Website" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Hand-Gesture-controlled-robotic-arm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Kartiksangleportfolio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Infinity_Fitness_Management_System" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDS2383&repo=Retina_Blindness_detection" />  
 </div>
 
 <div align="center">
@@ -69,7 +69,7 @@
 
 ---
 
-<h2 align="center">🌟 Open-Source Contributions 🌟</h2>
+<!-- <h2 align="center">🌟 Open-Source Contributions 🌟</h2>
 
 <div align="center">
     
@@ -85,12 +85,29 @@
     <strong><a href="https://github.com/sweakpl/unlock-master">UNLOCK MASTER</a></strong> - 
     <strong><a href="https://github.com/KRTirtho/spotube">SPOTUBE</a></strong> - 
     <strong><a href="https://github.com/rumboalla/apkupdater">APKU‌PDATER</a></strong> 
-    <!-- Add more projects as needed -->
+     Add more projects as needed 
 </div>
 
 <div align="center">
     <br><br>
     <i>Grateful to contribute and learn from these incredible projects and communities!</i>
+</div> -->
+
+---
+
+<h2 align="center">🌟 Skills I'm Currently Sharpening 🌟</h2>
+
+<div align="center">
+    
+- 📊 **Advanced Machine Learning Techniques**  
+   Exploring ensemble methods and fine-tuning deep learning models.  
+
+- 🧩 **Algorithm Optimization**  
+   Solving complex problems in **Design and Analysis of Algorithms** for efficient solutions.  
+
+- 🛡️ **Cybersecurity and Digital Forensics**  
+   Gaining expertise in securing systems and understanding forensic tools.  
+
 </div>
 
 ---
